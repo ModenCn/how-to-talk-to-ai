@@ -4,7 +4,7 @@
 
 ## 篇目
 
-### [关于 vibe coding 的思考](vibe-coding.md)（写作中）
+### [关于 vibe coding 的思考](vibe-coding.md)（写作中） · [English version](vibe-coding.en.md)
 
 - 引论 · vibe coding 的原理——可能性空间的定向收敛（与「无限猴子定理」的对照）
 - 第一章 · 人在 vibe coding 中的必要性
